@@ -8,10 +8,10 @@ The dashboard provides a comprehensive view of booking performance, revenue gene
 
 The objective is to help businesses understand booking patterns, monitor performance, identify trends, and make data-driven decisions.
 
-#Dashboard 
+# Dashboard 
 <img width="933" height="524" alt="image" src="https://github.com/user-attachments/assets/ba684d26-d8e5-4243-9b90-18efb57ad544" />
 
-#🎯 Project Objectives
+# 🎯 Project Objectives
 Analyze overall Uber ride booking performance.
 
 Monitor revenue generation and booking trends.
@@ -26,7 +26,7 @@ Track successful, cancelled, and incomplete bookings.
 
 Present actionable business insights through an interactive dashboard.
 
-#📊 Key Performance Indicators (KPIs)
+# 📊 Key Performance Indicators (KPIs)
 
 The dashboard focuses on the following business metrics:
 
@@ -46,7 +46,7 @@ Customer Booking Trends
 
 creenshots.
 
-#🔍 Key Business Insights
+# 🔍 Key Business Insights
 
 The dashboard helps identify:
 
@@ -64,10 +64,10 @@ Opportunities to improve operational performance.
 
 
 
-#👩‍💻 Developed By
+# 👩‍💻 Developed By
 
 D. Aarti
 
 ⭐ If you find this project useful, feel free to explore the repository and share your feedback!
 
-Thank you for visiting my project!
+##Thank you for visiting my project!
